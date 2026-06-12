@@ -1,1 +1,1 @@
-SELECT a, b,c from dbo.table1
+SELECT a, b,c from dbo.table1;
